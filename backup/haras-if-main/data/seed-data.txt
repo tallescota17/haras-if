@@ -1,0 +1,41 @@
+; Seed data for projeto_haras
+; Sections: lines starting with [SECTION]
+
+[PROPRIETARIOS]
+11111111111;João Silva;Senha123;joao.silva@example.com
+22222222222;Maria Oliveira;Senha123;maria.oliveira@example.com
+33333333333;Carlos Pereira;Senha123;carlos.pereira@example.com
+44444444444;Ana Souza;Senha123;ana.souza@example.com
+55555555555;Pedro Lima;Senha123;pedro.lima@example.com
+
+[VETERINARIOS]
+CRMV1001;Rafael Vet;Senha123;rafael.vet@example.com
+CRMV1002;Luciana Vet;Senha123;luciana.vet@example.com
+CRMV1003;Marcos Vet;Senha123;marcos.vet@example.com
+
+[CUIDADORES]
+Carlos Cuidador;Senha123;carlos.cuidador@example.com;2020-01-15
+Bruna Cuidadora;Senha123;bruna.cuidadora@example.com;2019-06-01
+
+[BAIAS]
+12.5;Piquete
+8.0;Coberta
+10.0;Aberta
+15.0;Coberta
+
+[ALIMENTOS]
+Feno;10.50
+Ração Premium;25.00
+Suplemento;40.00
+Capim;5.00
+
+[SERVICOS]
+Ferrageamento;80.00
+Vacinacao;30.00
+ExameVeterinario;120.00
+
+[EQUINOS]
+Relâmpago;M;Puro-Sangue;2018-04-10;joao.silva@example.com;rafael.vet@example.com;0;carlos.cuidador@example.com;Feno,Ração Premium
+Estrela;F;Mangalarga;2016-09-21;maria.oliveira@example.com;luciana.vet@example.com;1;bruna.cuidadora@example.com;Capim
+Trovão;M;Puro-Sangue;2019-02-05;carlos.pereira@example.com;marcos.vet@example.com;2;carlos.cuidador@example.com;Suplemento
+Brisa;F;Quarto-de-Milha;2017-11-30;ana.souza@example.com;rafael.vet@example.com;3;bruna.cuidadora@example.com;Feno
