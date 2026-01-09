@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.ifmg.projeto_haras.view;
 
 import com.ifmg.estudojpa.model.auth.Autenticador;
@@ -13,10 +10,7 @@ import com.ifmg.projeto_haras.model.ServicoAdicional;
 import java.util.List;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author iago_
- */
+
 public class FrCuidador extends javax.swing.JFrame {
 
     CuidadorController cuidadorController;

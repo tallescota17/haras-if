@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.ifmg.projeto_haras.view;
 
 import com.ifmg.estudojpa.model.auth.Autenticador;
@@ -12,10 +9,7 @@ import com.ifmg.projeto_haras.view.veterinario.FrVeterinarioEqAlimentos;
 import com.ifmg.projeto_haras.view.veterinario.FrVeterinarioEqServico;
 import javax.swing.JFrame;
 
-/**
- *
- * @author gusta
- */
+
 public class FrVeterinario extends javax.swing.JFrame {
     
     VeterinarioController veterinarioController;

@@ -66,9 +66,11 @@ com\ifmg\projeto_haras\view\gerenciaveis\IFrCuidador$6.class
 com\ifmg\projeto_haras\model\Administrador.class
 com\ifmg\projeto_haras\model\exceptions\BaiaException.class
 com\ifmg\projeto_haras\model\Alimento.class
+com\ifmg\projeto_haras\HashUtil.class
 com\ifmg\projeto_haras\model\valid\ValidateCuidador.class
 com\ifmg\projeto_haras\view\gerenciaveis\IFrProprietario$1.class
 com\ifmg\projeto_haras\view\gerenciaveis\IFrEquino$1.class
+com\ifmg\projeto_haras\TestSeed.class
 com\ifmg\projeto_haras\view\veterinario\FrVeterinarioEqServico$2.class
 com\ifmg\projeto_haras\controller\TMShowRelacaoEqAlimento.class
 com\ifmg\projeto_haras\view\FrAdministrador$9.class
@@ -76,6 +78,7 @@ com\ifmg\projeto_haras\controller\TMCadVeterinario.class
 com\ifmg\projeto_haras\controller\TMCadCuidador.class
 com\ifmg\projeto_haras\factory\Database.class
 com\ifmg\projeto_haras\model\ServicoAdicional.class
+com\ifmg\projeto_haras\LoginTester.class
 com\ifmg\projeto_haras\view\gerenciaveis\IFrServicoAdicional$7.class
 com\ifmg\projeto_haras\Projeto_haras.class
 com\ifmg\projeto_haras\controller\ComboItem.class

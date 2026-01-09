@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.ifmg.projeto_haras.view;
 
 import com.ifmg.estudojpa.model.auth.Autenticador;
@@ -10,10 +7,7 @@ import com.ifmg.projeto_haras.controller.RelFaturasController;
 import com.ifmg.projeto_haras.controller.RelServicosController;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author gusta
- */
+
 public class FrProprietario extends javax.swing.JFrame {
 
     ProprietarioController proprietarioController;

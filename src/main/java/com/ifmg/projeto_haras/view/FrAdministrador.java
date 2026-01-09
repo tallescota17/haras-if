@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package com.ifmg.projeto_haras.view;
 
 import com.ifmg.projeto_haras.view.gerenciaveis.IFrAlimento;
@@ -14,10 +11,7 @@ import com.ifmg.projeto_haras.view.gerenciaveis.IFrVeterinario;
 import com.ifmg.projeto_haras.view.gerenciaveis.IFrPagarFatura;
 import javax.swing.JFrame;
 
-/**
- *
- * @author gusta
- */
+
 public class FrAdministrador extends javax.swing.JFrame {
 
     private JFrame telaAnterior;

@@ -23,6 +23,7 @@ C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\view\F
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\valid\ValidateServicoAdicional.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\exceptions\ProprietarioException.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\exceptions\AlimentoException.java
+C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\TestSeed.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\controller\ServicoAdicionalController.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\dao\VeterinarioDAO.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\exceptions\BaiaException.java
@@ -30,6 +31,7 @@ C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\view\g
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\valid\ValidateCuidador.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\dao\ServicoAdicionalDAO.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\view\FrCuidador.java
+C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\LoginTester.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\controller\AutenticadorController.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\controller\TMCadEquino.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\valid\ValidateQtdEqServico.java
@@ -58,6 +60,7 @@ C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\controller\BaiaController.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\Alimento.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\auth\Autenticador.java
+C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\HashUtil.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\Proprietario.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\controller\TMShowRelacaoEqAlimento.java
 C:\Users\talle\Desktop\haras-if-main\src\main\java\com\ifmg\projeto_haras\model\valid\ValidateBaia.java
